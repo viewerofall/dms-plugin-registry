@@ -3832,12 +3832,12 @@
     "url": "https://github.com/hthienloc/dms-floaty"
   },
   "folderView": {
-    "date": "2026-06-20T01:51:44+07:00",
+    "date": "2026-06-20T22:36:59+07:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-9ZbUbJt0L3GPu8na2TYTokjoNSJzcvekQ95Kt82fkYQ=",
+    "hash": "sha256-soMElPbCDT7koY/Tn9lDRXIFhXqlAxCc7GQUl1fwUNc=",
     "leaveDotGit": false,
     "meta": {
       "author": "Loc Huynh",
@@ -3862,10 +3862,10 @@
       "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-folder-view/main/screenshot.png",
       "version": "2.3.0"
     },
-    "path": "/nix/store/07c3s3ljay4gykml3b7qpgwihmyn7aj3-dms-folder-view",
-    "rev": "99915140628c1f9616fc78b52877fd2c0933f71b",
+    "path": "/nix/store/yhamp6bs1sp6lf47zsp9796azzpjiirr-dms-folder-view",
+    "rev": "a391cd69f5a621dfb56327885d21b533f994da72",
     "rootDir": "",
-    "sha256": "114ikz6vfjny8fjgfwkk48syhj522cvdknn9pf7p2bvlkdnd95pm",
+    "sha256": "1mshy1brf534xjf100x5ga2hawj58gcrzlwgl7j3w3f2ysa090xj",
     "url": "https://github.com/hthienloc/dms-folder-view"
   },
   "formatColorPicker": {
@@ -6114,12 +6114,12 @@
     "url": "https://github.com/hthienloc/dms-qr-generator"
   },
   "quickCapture": {
-    "date": "2026-06-20T02:27:05+07:00",
+    "date": "2026-06-21T00:44:57+07:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-zykVxjFUvwL6de3WQH50j+cpOhoSp/wUAHjuY0qUXWQ=",
+    "hash": "sha256-NqHf8D83/jiQ39BaG3Tyt4+iBUbgOayV2dvhHaypNiU=",
     "leaveDotGit": false,
     "meta": {
       "author": "Loc Huynh",
@@ -6139,12 +6139,12 @@
       "name": "Quick Capture",
       "repo": "https://github.com/hthienloc/dms-quick-capture",
       "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-quick-capture/main/screenshot.png",
-      "version": "2.4.1"
+      "version": "2.4.2"
     },
-    "path": "/nix/store/mv2fcxija9ic2vadvpxa6pz7s7sws455-dms-quick-capture",
-    "rev": "206e7f31223b193185644ef37c8cece29ed6eeb1",
+    "path": "/nix/store/pzvv3h67y694izmaws41x5cf6pssrhfy-dms-quick-capture",
+    "rev": "aee4fd0e8ede56fa9f69d128219d786608a882fd",
     "rootDir": "",
-    "sha256": "0r2xji567vkq00agr9qj38x2krwgfiz41mpdfpx05gsl6731aafg",
+    "sha256": "099nm6n1vqfvv6asqfg08q2s53xpy9s1nnnhvy83izip7zqdz89n",
     "url": "https://github.com/hthienloc/dms-quick-capture"
   },
   "quickTote": {
@@ -6342,12 +6342,12 @@
     "url": "https://github.com/JDKamalakar/DMS-ScreenCapture_Toolbar"
   },
   "screenRecorder": {
-    "date": "2026-04-28T12:10:34-06:00",
+    "date": "2026-06-20T00:54:20-06:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-/SeQSlPeM0jDHg4yFmR82ODtnVs2bOovVG7TCMjH1vk=",
+    "hash": "sha256-lo4/zxJlNiCWFql/SULWKMLPn2f1BARIMguvYFvZk4I=",
     "leaveDotGit": false,
     "meta": {
       "author": "arqueon",
@@ -6369,12 +6369,12 @@
       "name": "Screen Recorder",
       "repo": "https://github.com/arqueon/dms-screen-recorder",
       "screenshot": "https://raw.githubusercontent.com/arqueon/dms-screen-recorder/main/assets/screenshot.png",
-      "version": "1.2.0"
+      "version": "1.3.0"
     },
-    "path": "/nix/store/y0akr6qhxcq8basg6iky5nn43rmbhl7b-dms-screen-recorder",
-    "rev": "40364a8530f4364e2fd6b0eb8802d5fe4f241b8f",
+    "path": "/nix/store/4c1p2vjpcqlg7nzrviv0qgp9bdyj330r-dms-screen-recorder",
+    "rev": "c0b49eeea6d1db761993e7948690967072d65f0e",
     "rootDir": "",
-    "sha256": "1yfnqz40ilvfahpylv1nbffyvq6qgij1cchf3v1lhcyyad5909zx",
+    "sha256": "10lkv5dn1bqb6940817mcygwzhi8sr14jzx92sb20dk52b7kz3ln",
     "url": "https://github.com/arqueon/dms-screen-recorder"
   },
   "screenshotToggle": {
@@ -7101,12 +7101,12 @@
     "url": "https://github.com/kerojiang/dms-transBin"
   },
   "unifiedTaskbar": {
-    "date": "2026-06-17T02:22:35-04:00",
+    "date": "2026-06-20T22:58:11-04:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-I/rnqJKlfKETCQaPQoN+H4m9FzgHlhMIFFqdRnWEd00=",
+    "hash": "sha256-vvjDdX0F0R9zD20Ii/Tw6Gh0Or+JlwtPQMN8tMXCxUQ=",
     "leaveDotGit": false,
     "meta": {
       "author": "Joshua Landau",
@@ -7128,10 +7128,10 @@
       "screenshot": "https://raw.githubusercontent.com/jslandau/dms-unified-taskbar/master/screenshot.png",
       "version": "1.1.1"
     },
-    "path": "/nix/store/i5sg2fkxqp6x75b3risyc8510l87yfzp-dms-unified-taskbar",
-    "rev": "352c3aa876a283605c035469143430435e6fdbb1",
+    "path": "/nix/store/xzclq840rq5wx5b6vwykbz7sa7bb5ipa-dms-unified-taskbar",
+    "rev": "0dd45d5c6b3f217594a2bd361527efae71b78378",
     "rootDir": "",
-    "sha256": "0kbphisld7as2h4175h770bvv28zgs1l53q6149s2z55jalfgyi3",
+    "sha256": "0i65qb2v8z63817hp5w9pwx78s78y3s8n23d1xrizl85gmsw7y5y",
     "url": "https://github.com/jslandau/dms-unified-taskbar"
   },
   "uptimeBar": {
@@ -7179,12 +7179,12 @@
     "url": "https://github.com/viewerofall-labs/weather-viewer"
   },
   "usbManager": {
-    "date": "2026-03-31T17:28:32+07:00",
+    "date": "2026-06-20T12:16:23+07:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-mh9J3xl+DXDgLOWeNhB/phOoRowZuL+RTBI+mn+Dze8=",
+    "hash": "sha256-al6/8gFMcy3Vv4867SB7OUNqwCZ3n0ygweg5FvG1xPk=",
     "leaveDotGit": false,
     "meta": {
       "author": "NordicsSys",
@@ -7217,10 +7217,10 @@
       "screenshot": "https://raw.githubusercontent.com/NordicsSys/dms-usb-manager/main/assets/screenshot.png",
       "version": "1.2.0"
     },
-    "path": "/nix/store/a9pzf2vva951k0ff0l70rvjnqwmi3xd0-dms-usb-manager",
-    "rev": "0a2e13ea9e6cc6061688e073d41df26eb66f0e45",
+    "path": "/nix/store/w048qwv4a0mj0yqnv4dihblpfs1xrp73-dms-usb-manager",
+    "rev": "4dd61c1aa277a280fc05131342bc1cf3936a2a86",
     "rootDir": "",
-    "sha256": "1vydhdzrlghj9j8vzf0rii3ah4x6gw83d7p55kh703by37glj7ws",
+    "sha256": "1yf4npqicfg8q6h4r7vp4v06lhrrgchfsflgpzajswsc07rbypka",
     "url": "https://github.com/NordicsSys/dms-usb-manager"
   },
   "volumeMixer": {
