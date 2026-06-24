@@ -6114,12 +6114,12 @@
     "url": "https://github.com/hthienloc/dms-qr-generator"
   },
   "quickCapture": {
-    "date": "2026-06-23T10:44:21+07:00",
+    "date": "2026-06-23T11:32:16+07:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-g86Wpm9xbK1KaSelUoR/J7E5nk0lKuQC6dLtu3z1Oao=",
+    "hash": "sha256-9Y9xaiE22LzaQp/9cNNnL0snYF7zV6F/0ej30+jUK78=",
     "leaveDotGit": false,
     "meta": {
       "author": "Loc Huynh",
@@ -6141,10 +6141,10 @@
       "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-quick-capture/main/screenshot.png",
       "version": "2.5.0"
     },
-    "path": "/nix/store/fzpll0r7anbaqyaizsrc1d2zlfm346wp-dms-quick-capture",
-    "rev": "08fd05f52cc6dfe093255e59310aa3cc2c29b094",
+    "path": "/nix/store/7ssrjr0hwpygcknyl660wvx9pnp95b0c-dms-quick-capture",
+    "rev": "b2bee7ae1e946dbfa3eb39cea9e755b6ccc8830f",
     "rootDir": "",
-    "sha256": "1airymybpvfjx41f8ai59ng3kc97gy255997d55asv3idyk9dkl3",
+    "sha256": "1grbskld7xz8s5zs2mzkbrh2fjrgcz9p1zcz8bdbrn1n45m733zm",
     "url": "https://github.com/hthienloc/dms-quick-capture"
   },
   "quickTote": {
