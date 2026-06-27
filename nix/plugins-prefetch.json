@@ -886,12 +886,12 @@
     "url": "https://github.com/hthienloc/dms-breathing"
   },
   "caffeine": {
-    "date": "2026-06-13T20:12:25+07:00",
+    "date": "2026-06-27T02:37:53+07:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-49ukatgfa+9ZgwsS7yyy+VGNTsJOLJVaWB9mU/smBjI=",
+    "hash": "sha256-WDd1hVqY7xn6osrZjHH1mGAa5R+TpMT1z2C/rKQp1y8=",
     "leaveDotGit": false,
     "meta": {
       "author": "Loc Huynh",
@@ -911,12 +911,12 @@
       "name": "Caffeine",
       "repo": "https://github.com/hthienloc/dms-caffeine",
       "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-caffeine/master/screenshot.png",
-      "version": "2.0.0"
+      "version": "2.1.0"
     },
-    "path": "/nix/store/lvxqpwn5w4bi4hwgnn57w0cvmq8c6wa1-dms-caffeine",
-    "rev": "d44757a88f1c1b5096eee8f9d48521549de03f63",
+    "path": "/nix/store/zn8ig59jimpy34sxxk9awg37n02rx8i5-dms-caffeine",
+    "rev": "bcd649ce07c17a205f62022702a06ae210b6cdbc",
     "rootDir": "",
-    "sha256": "0ch64vxm6rhzb1d9ab2fq978slgrn8nfy4hbhdcyysqzv1ma9nz3",
+    "sha256": "0byp56jargv0rzsw994k3zjilq4qymqqrnfalbx1kvwqba2padsq",
     "url": "https://github.com/hthienloc/dms-caffeine"
   },
   "calculator": {
@@ -3578,12 +3578,12 @@
     "url": "https://github.com/MetalCar/dms-dooit-widget"
   },
   "easyEffects": {
-    "date": "2025-12-15T09:52:12+01:00",
+    "date": "2026-06-26T15:17:32+02:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-q0Xp4RzHd0HgtUZEM4hIES6SDyN8R4lPgQe5aeLMh4c=",
+    "hash": "sha256-FuDIMFZx9KvygoX/otnhrVBSd+NiswzFRU2TSp/kyKg=",
     "leaveDotGit": false,
     "meta": {
       "author": "jonkristian",
@@ -3605,12 +3605,12 @@
       "name": "Easy Effects Profile Switcher",
       "repo": "https://github.com/jonkristian/dms-easyeffects",
       "screenshot": "https://github.com/jonkristian/dms-easyeffects/blob/main/screenshot.png?raw=true",
-      "version": "1.0.4"
+      "version": "1.1.0"
     },
-    "path": "/nix/store/lgx12sqg7l1fs6anl5dmgw3x29gpzimf-dms-easyeffects",
-    "rev": "f50fdb7a110ddb90b7625bc143884fd773c3d5c7",
+    "path": "/nix/store/2s98fj719ah4sy0m5lksq9nl47hxpwp8-dms-easyeffects",
+    "rev": "1c132bf974bcc43db974c7e337b6c6c23526c680",
     "rootDir": "",
-    "sha256": "11w7rki6kf87h57qjivw4c7r4bhi92436i26nph42xy73khyjidb",
+    "sha256": "1a68wjglm4sd8p2hrcv2wdvm4l5dw7cs5zw5hbrapx3iaqqciq0n",
     "url": "https://github.com/jonkristian/dms-easyeffects"
   },
   "emojiLauncher": {
