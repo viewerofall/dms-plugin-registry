@@ -2505,12 +2505,12 @@
     "url": "https://github.com/NordicsSys/DankSystemDoctor"
   },
   "dankTodo": {
-    "date": "2026-04-23T14:45:47+02:00",
+    "date": "2026-06-29T12:29:29+02:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-PkjfBtfenenvGBrbapC13d36Ezl8g3DWIAaVBFc4XEM=",
+    "hash": "sha256-zX9rtJwq5KyXHG55bQXbV7osAMHTkL9l7qSRqEgh6kI=",
     "leaveDotGit": false,
     "meta": {
       "author": "Deepu K Sasidharan",
@@ -2532,10 +2532,10 @@
       "screenshot": "https://raw.githubusercontent.com/deepu105/dms-dank-todo/main/screenshot.png",
       "version": "1.2.0"
     },
-    "path": "/nix/store/mpady5lc88rlyjzl38kxrlvvz58glzjv-dms-dank-todo",
-    "rev": "5a1db7e8a33c09aedbf325ba71d9c8bda2a5e54f",
+    "path": "/nix/store/649c4y85hcqhhlbwqym8y2rgbj2zfc3f-dms-dank-todo",
+    "rev": "ff1b82c3061fce3c32c8f65792fa81b928ab35d1",
     "rootDir": "",
-    "sha256": "0hsw71bh958643b710vw749zmpfxnn86mnqs33pyk7fysw3dyj1y",
+    "sha256": "0hpa454ai4d4xrjvz46kq402rfjpvc2nsybf3jbsrr1akjs6nzyd",
     "url": "https://github.com/deepu105/dms-dank-todo"
   },
   "dankTranslate": {
@@ -5315,12 +5315,12 @@
     "url": "https://github.com/Dadangdut33/dms-plugins"
   },
   "networkIndicator": {
-    "date": "2026-06-27T23:23:20+03:00",
+    "date": "2026-06-29T14:25:22+03:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-vEhaTacQd1Va32KQQqwHQY4aoDMX/Rv4jpgKe7vfZfs=",
+    "hash": "sha256-jJNFCUVjKudm1B1VEdiFknt4X+9ZnMOGedsyugBJIew=",
     "leaveDotGit": false,
     "meta": {
       "author": "gemb0_0",
@@ -5342,10 +5342,10 @@
       "screenshot": "https://raw.githubusercontent.com/gemb0-0/Network-Indicator/refs/heads/main/screenshot.png",
       "version": "1.3.0"
     },
-    "path": "/nix/store/3b8mysnw28q9nhrr2b8640kh0z1bqaiq-Network-Indicator",
-    "rev": "4c222cc334758a674edc2152c9680393fb0560a4",
+    "path": "/nix/store/nz01sn31r3ymim4rpi8pxqkfrn1knz33-Network-Indicator",
+    "rev": "f11893de3065d2082e5a6159447aacff2ae067ff",
     "rootDir": "",
-    "sha256": "1yv5vyxpn2lqivw1pz8p6fh1m3j10yn45432vxd5axqhlx6mlj5w",
+    "sha256": "1v11940blcnvg63c772rxxgphywjhpc12m8xsikffak38l4lb4wc",
     "url": "https://github.com/gemb0-0/Network-Indicator.git"
   },
   "nextBootSelector": {
@@ -6114,12 +6114,12 @@
     "url": "https://github.com/hthienloc/dms-qr-generator"
   },
   "quickCapture": {
-    "date": "2026-06-28T11:59:28+07:00",
+    "date": "2026-06-29T23:24:23+07:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-BZvRVbqT5gkDM4UAHPD6r5h5uceOyjOSkYr4k7U+OqM=",
+    "hash": "sha256-7RhxN/LMs1wSrrAoahheoyXjw1tWdVcrSjEM3blxqQo=",
     "leaveDotGit": false,
     "meta": {
       "author": "Loc Huynh",
@@ -6141,10 +6141,10 @@
       "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-quick-capture/main/screenshot.png",
       "version": "2.7.1"
     },
-    "path": "/nix/store/mw9v6f52h75zil7639yxcj6kp3vrbszx-dms-quick-capture",
-    "rev": "99caa94eb76ec5675fefb457f8e401a18bd1eecb",
+    "path": "/nix/store/lh1qa22z9lipyn7pp0abp903h8n70xd2-dms-quick-capture",
+    "rev": "bbf0136ce1c7e78a8362059645da1dc5f99ca17e",
     "rootDir": "",
-    "sha256": "18rs7ssr7y4aj6937jlfqywpk65gzbq1q0456c1hkrlkp9ax36q5",
+    "sha256": "02m9f6wxs31i98mmfxanbg1y69d3bqc6la5hmq95rcycy8vp267d",
     "url": "https://github.com/hthienloc/dms-quick-capture"
   },
   "quickTote": {
