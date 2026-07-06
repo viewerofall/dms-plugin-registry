@@ -1405,12 +1405,12 @@
     "url": "https://github.com/devnullvoid/dms-command-runner"
   },
   "converter": {
-    "date": "2026-07-02T19:46:54-07:00",
+    "date": "2026-07-05T11:10:10-07:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-bd0oA20MWzeoOlShDV8pvurC76N3HJ9LccJV54C2jD0=",
+    "hash": "sha256-Hl0kQyNMkag378Bg5u6DHsP/HUsLkWEaxuZYAGxHohU=",
     "leaveDotGit": false,
     "meta": {
       "author": "viewerofall ",
@@ -1441,10 +1441,10 @@
       "type": "launcher",
       "version": "1.0.0"
     },
-    "path": "/nix/store/7fvsmhnn5z2l8zq4zibzj8s527m284q9-weather-viewer",
-    "rev": "2af355c4c62a5dca0021edc8770f49c001b095e7",
+    "path": "/nix/store/7wwfrpg3inzmsjxg5pnhaly7yn0y4g70-weather-viewer",
+    "rev": "1900d8293d87b5b04c16b47591cc59613074eb0d",
     "rootDir": "",
-    "sha256": "0gccns0ffmf2f55ry73plgpw5smy55ghv8al7al3fnqcdl1jipbd",
+    "sha256": "05d28xn00n76qqd6348b9cfzzhqyhgpfcq60xwvsi4ac4d1j8p8y",
     "url": "https://github.com/viewerofall-labs/weather-viewer"
   },
   "cpuCoreLoad": {
@@ -6809,12 +6809,12 @@
     "url": "https://github.com/cglavin50/dms-tailscale"
   },
   "tasks": {
-    "date": "2026-05-25T17:59:02+05:30",
+    "date": "2026-07-05T13:03:35+05:30",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-Mpt9jU/eVI4nkHnaXwFDrueW+i9MG4YflNt3B6yhZQk=",
+    "hash": "sha256-foogvVcO89hUiZ78RpCpaRFXSzxy6V3mI4BIEoI3lso=",
     "leaveDotGit": false,
     "meta": {
       "author": "Yasiru Dharmathilaka",
@@ -6837,12 +6837,12 @@
       "name": "Tasks",
       "repo": "https://github.com/AyoItsYas/dms-tasks",
       "screenshot": "https://raw.githubusercontent.com/AyoItsYas/dms-tasks/refs/heads/main/screenshot.png",
-      "version": "1.1.2"
+      "version": "1.1.5"
     },
-    "path": "/nix/store/aa2z2201pcgqjl1hlfifz57cdwn0a4ai-dms-tasks",
-    "rev": "d58822c5e307e92e5ca91dc4d609aff463ea2afb",
+    "path": "/nix/store/zl8a03q212q4rbzhirb3hwbi96796pms-dms-tasks",
+    "rev": "da212be5e329053a9a1e77b3826221674c6bbe77",
     "rootDir": "",
-    "sha256": "02b5l6n0fxyvjhgqc6sc5zx9drxf8c0mznkrj0kqwm6y9y6pv6rj",
+    "sha256": "1jln6y114j404gk5vsbj7i5mf4b9m684dz4yi5adiwqfayyj12ky",
     "url": "https://github.com/AyoItsYas/dms-tasks"
   },
   "taskwarrior": {
@@ -7135,12 +7135,12 @@
     "url": "https://github.com/jslandau/dms-unified-taskbar"
   },
   "uptimeBar": {
-    "date": "2026-07-02T19:46:54-07:00",
+    "date": "2026-07-05T11:10:10-07:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-bd0oA20MWzeoOlShDV8pvurC76N3HJ9LccJV54C2jD0=",
+    "hash": "sha256-Hl0kQyNMkag378Bg5u6DHsP/HUsLkWEaxuZYAGxHohU=",
     "leaveDotGit": false,
     "meta": {
       "author": "viewerofall",
@@ -7172,10 +7172,10 @@
       "type": "widget",
       "version": "1.1.3"
     },
-    "path": "/nix/store/7fvsmhnn5z2l8zq4zibzj8s527m284q9-weather-viewer",
-    "rev": "2af355c4c62a5dca0021edc8770f49c001b095e7",
+    "path": "/nix/store/7wwfrpg3inzmsjxg5pnhaly7yn0y4g70-weather-viewer",
+    "rev": "1900d8293d87b5b04c16b47591cc59613074eb0d",
     "rootDir": "",
-    "sha256": "0gccns0ffmf2f55ry73plgpw5smy55ghv8al7al3fnqcdl1jipbd",
+    "sha256": "05d28xn00n76qqd6348b9cfzzhqyhgpfcq60xwvsi4ac4d1j8p8y",
     "url": "https://github.com/viewerofall-labs/weather-viewer"
   },
   "usbManager": {
@@ -7512,12 +7512,12 @@
     "url": "https://github.com/Daniel-42-z/dms-wallpaper-shuffler"
   },
   "weatherArt": {
-    "date": "2026-07-02T19:46:54-07:00",
+    "date": "2026-07-05T11:10:10-07:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-bd0oA20MWzeoOlShDV8pvurC76N3HJ9LccJV54C2jD0=",
+    "hash": "sha256-Hl0kQyNMkag378Bg5u6DHsP/HUsLkWEaxuZYAGxHohU=",
     "leaveDotGit": false,
     "meta": {
       "author": "viewerofall",
@@ -7540,10 +7540,10 @@
       "screenshot": "https://raw.githubusercontent.com/viewerofall-labs/weather-viewer/main/weather.png",
       "version": "0.1.0"
     },
-    "path": "/nix/store/7fvsmhnn5z2l8zq4zibzj8s527m284q9-weather-viewer",
-    "rev": "2af355c4c62a5dca0021edc8770f49c001b095e7",
+    "path": "/nix/store/7wwfrpg3inzmsjxg5pnhaly7yn0y4g70-weather-viewer",
+    "rev": "1900d8293d87b5b04c16b47591cc59613074eb0d",
     "rootDir": "",
-    "sha256": "0gccns0ffmf2f55ry73plgpw5smy55ghv8al7al3fnqcdl1jipbd",
+    "sha256": "05d28xn00n76qqd6348b9cfzzhqyhgpfcq60xwvsi4ac4d1j8p8y",
     "url": "https://github.com/viewerofall-labs/weather-viewer"
   },
   "webSearch": {
