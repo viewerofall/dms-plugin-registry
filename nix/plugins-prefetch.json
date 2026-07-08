@@ -298,12 +298,12 @@
     "url": "https://github.com/hthienloc/dms-ambient-sound"
   },
   "amdGpuMonitor": {
-    "date": "2026-05-15T13:27:39+02:00",
+    "date": "2026-07-07T11:08:38Z",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-BCvsFVwGhsvjdmtiK3MW7931sxaSiZAB6dOnXCUN7f0=",
+    "hash": "sha256-HbFiTpbmBtcLffD0krgN3KSUAkpVsdZZyGm2EwTFYms=",
     "leaveDotGit": false,
     "meta": {
       "author": "navidagz",
@@ -325,12 +325,12 @@
       "name": "AMD GPU Monitor",
       "repo": "https://github.com/navidagz/dms-amd-gpu-monitor",
       "screenshot": "https://raw.githubusercontent.com/navidagz/dms-amd-gpu-monitor/refs/heads/main/screenshots/screenshot.png",
-      "version": "3.0.0"
+      "version": "3.1.0"
     },
-    "path": "/nix/store/qcx0sjrhq20qmpgm28gj4zd5allz0jk7-dms-amd-gpu-monitor",
-    "rev": "430d783232fe00eb4ba046833021353e63c152ed",
+    "path": "/nix/store/pal69fassv7gx74lycc47a2a8i3na3nf-dms-amd-gpu-monitor",
+    "rev": "6f1ac2b7ebe62e22e76721579d12fa946417285c",
     "rootDir": "",
-    "sha256": "1zgd1ljmr9ykx40r12cj2srzbpgg2rrjnqkbfviwp1h6bhayqaq4",
+    "sha256": "0sv2ql217dk9r1cxdcam9819996w1nw95x7hgl5xf1p6jr765c8x",
     "url": "https://github.com/navidagz/dms-amd-gpu-monitor"
   },
   "amdGpuMonitorRevive": {
@@ -5315,12 +5315,12 @@
     "url": "https://github.com/Dadangdut33/dms-plugins"
   },
   "networkIndicator": {
-    "date": "2026-06-29T14:25:22+03:00",
+    "date": "2026-07-07T17:38:59+03:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-jJNFCUVjKudm1B1VEdiFknt4X+9ZnMOGedsyugBJIew=",
+    "hash": "sha256-+ELdDBwXyk4kN21ktj9m9B4hnkA8GZUwiL2jixc8cmY=",
     "leaveDotGit": false,
     "meta": {
       "author": "gemb0_0",
@@ -5340,21 +5340,21 @@
       "name": "Network Indicator",
       "repo": "https://github.com/gemb0-0/Network-Indicator.git",
       "screenshot": "https://raw.githubusercontent.com/gemb0-0/Network-Indicator/refs/heads/main/screenshot.png",
-      "version": "1.3.0"
+      "version": "1.3.1"
     },
-    "path": "/nix/store/nz01sn31r3ymim4rpi8pxqkfrn1knz33-Network-Indicator",
-    "rev": "f11893de3065d2082e5a6159447aacff2ae067ff",
+    "path": "/nix/store/w1hwcsxrf12ykfkb1189svgnq4j8gi89-Network-Indicator",
+    "rev": "4439fc4121a2bd6f1ade76c296ee9f77311560c6",
     "rootDir": "",
-    "sha256": "1v11940blcnvg63c772rxxgphywjhpc12m8xsikffak38l4lb4wc",
+    "sha256": "0rkj7hbqp8xxi0q9a69w82g227plcqzvcr3d6wj4xjhp3h6dshpq",
     "url": "https://github.com/gemb0-0/Network-Indicator.git"
   },
   "nextBootSelector": {
-    "date": "2026-04-12T07:01:55+12:00",
+    "date": "2026-07-07T22:21:25+12:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-h9rkQOTwpDwFx9Z+6MD+cH7rJv10L8OCQFxSEMVvaOU=",
+    "hash": "sha256-dqlGzzqwecHAaDXlx+oOC5W1arDrR58hduVuGX0YLGs=",
     "leaveDotGit": false,
     "meta": {
       "author": "arcatva",
@@ -5378,12 +5378,12 @@
       "name": "Next Boot Selector",
       "repo": "https://github.com/arcatva/dms-next-boot-selector",
       "screenshot": "https://raw.githubusercontent.com/arcatva/dms-next-boot-selector/main/screenshots/popout.png",
-      "version": "1.0.0"
+      "version": "1.0.1"
     },
-    "path": "/nix/store/x44l0plhy7k97mjywvfa58bhckcmh254-dms-next-boot-selector",
-    "rev": "89e0f38554db8adb6d15f93fa21fbe5c2eecb06e",
+    "path": "/nix/store/whnbfwbvnx64v3pbk1y2hrjlngpa171y-dms-next-boot-selector",
+    "rev": "78e75e8e0555f9a8f860f4be98a39cd22e1c09bf",
     "rootDir": "",
-    "sha256": "1rb8dz2i0ljw821c6bvlzlkfnzkhzv0fhznnqw2kr97hwi0f9nl7",
+    "sha256": "0src31yijvp5fqhryizbn1mbb58b1vmcgr9md30c2ydh7b7ldabn",
     "url": "https://github.com/arcatva/dms-next-boot-selector"
   },
   "nightModeControl": {
@@ -6114,12 +6114,12 @@
     "url": "https://github.com/hthienloc/dms-qr-generator"
   },
   "quickCapture": {
-    "date": "2026-07-07T02:21:03+07:00",
+    "date": "2026-07-08T09:27:58+07:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-e0bZGcNEeCSGkQhacXJn/iY/2BblO3IFE61o2K8L0DQ=",
+    "hash": "sha256-JNRKOMM8PqVj1ZO0lG3fk0wBBunKScoh07wmgoLogQM=",
     "leaveDotGit": false,
     "meta": {
       "author": "Loc Huynh",
@@ -6139,12 +6139,12 @@
       "name": "Quick Capture",
       "repo": "https://github.com/hthienloc/dms-quick-capture",
       "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-quick-capture/main/screenshot.png",
-      "version": "2.8.0"
+      "version": "2.10.0"
     },
-    "path": "/nix/store/ghzkhh24k9nsamc2qkwnjkqay9p9prk0-dms-quick-capture",
-    "rev": "178567e1fb8697087a0ef3d7729d93cce130cbfe",
+    "path": "/nix/store/dvfkhyfdqw4rlbhrh8zkwc76i2x5pkm8-dms-quick-capture",
+    "rev": "3165da62de8e29bafcdda278556f3e3649c5aeea",
     "rootDir": "",
-    "sha256": "0d6h1fpxhs5d2c2p4fz52vc3y9pycxr72nh8j6328y24qccxjikv",
+    "sha256": "00w1x21849mwschwljfax4302k4kvxnr9d4ksmisagiwqcw4mm14",
     "url": "https://github.com/hthienloc/dms-quick-capture"
   },
   "quickTote": {
@@ -6955,12 +6955,12 @@
     "url": "https://github.com/fdmarcin/TimeUntil"
   },
   "timer": {
-    "date": "2026-06-23T11:01:20+07:00",
+    "date": "2026-07-07T20:36:23+07:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-9uMK3PPs0kgRUsbcE6YbBUMegVmPklAHMo19rIsyAug=",
+    "hash": "sha256-e5cxFwjbwke7Kh/CIyB4lnAlfqbX9tDqAP3zJBSBXeE=",
     "leaveDotGit": false,
     "meta": {
       "author": "Loc Huynh",
@@ -6983,12 +6983,12 @@
       "name": "Timer",
       "repo": "https://github.com/hthienloc/dms-timer",
       "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-timer/master/screenshot.png",
-      "version": "3.0.0"
+      "version": "3.0.2"
     },
-    "path": "/nix/store/lm9w7mrzm0f9mxc3sgfdpi8jnm26xkld-dms-timer",
-    "rev": "befb7b102a21f1d981b19a49891b4d44b24d15c0",
+    "path": "/nix/store/74gsd69448cs7mdj1dcba4wmllch16x4-dms-timer",
+    "rev": "eaec24fcf2fdea91bd0c671f3bd0ece0275217d9",
     "rootDir": "",
-    "sha256": "1s026a5sqzcd683m14lgb60iwhq53fk17p66a88lilpcygf0mqzn",
+    "sha256": "1qaxh4a29wzx03md1xnplrz2aw4ng0h27hhz5axlghnv10bk35vv",
     "url": "https://github.com/hthienloc/dms-timer"
   },
   "tlpControl": {
