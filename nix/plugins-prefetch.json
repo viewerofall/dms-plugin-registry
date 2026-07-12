@@ -298,12 +298,12 @@
     "url": "https://github.com/hthienloc/dms-ambient-sound"
   },
   "amdGpuMonitor": {
-    "date": "2026-07-07T11:08:38Z",
+    "date": "2026-07-11T19:04:22+02:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-HbFiTpbmBtcLffD0krgN3KSUAkpVsdZZyGm2EwTFYms=",
+    "hash": "sha256-wHg1m0cqAeM7nporbHjyE9Q/KH5BteIKWZ41T9Ybt6g=",
     "leaveDotGit": false,
     "meta": {
       "author": "navidagz",
@@ -327,10 +327,10 @@
       "screenshot": "https://raw.githubusercontent.com/navidagz/dms-amd-gpu-monitor/refs/heads/main/screenshots/screenshot.png",
       "version": "3.1.0"
     },
-    "path": "/nix/store/pal69fassv7gx74lycc47a2a8i3na3nf-dms-amd-gpu-monitor",
-    "rev": "6f1ac2b7ebe62e22e76721579d12fa946417285c",
+    "path": "/nix/store/d63jhgfnlazp7h92h8f102p6kvryfywa-dms-amd-gpu-monitor",
+    "rev": "3a2de757ffa8f90ee6401147929103b4bfad7776",
     "rootDir": "",
-    "sha256": "0sv2ql217dk9r1cxdcam9819996w1nw95x7hgl5xf1p6jr765c8x",
+    "sha256": "1a5p3gb4ydcyb45f5da1gql3zm0ky9w6qawskqxy609a8ydkay60",
     "url": "https://github.com/navidagz/dms-amd-gpu-monitor"
   },
   "amdGpuMonitorRevive": {
@@ -4170,12 +4170,12 @@
     "url": "https://github.com/psyreactor/dms-githubNotifier"
   },
   "gitlabNotifier": {
-    "date": "2026-07-10T18:59:29-03:00",
+    "date": "2026-07-11T01:31:20-03:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-EQkP7Wpv7uVa6Y1lhjFMkQvnn1pytby7xKarvDEHBUc=",
+    "hash": "sha256-uUcJuRq5WKgofookdFblqt6ydqYcr3I7nMRH6KBYdzY=",
     "leaveDotGit": false,
     "meta": {
       "author": "psyreactor",
@@ -4199,12 +4199,12 @@
       "repo": "https://github.com/psyreactor/dms-gitlabNotifier",
       "requires_dms": ">0.0.28",
       "screenshot": "https://github.com/psyreactor/dms-gitlabNotifier/raw/main/screenshot.png",
-      "version": "1.1.0"
+      "version": "1.2.0"
     },
-    "path": "/nix/store/25z3mqh3vyck1yxfsl6j9vw2pa8mdg2m-dms-gitlabNotifier",
-    "rev": "0eba0d327ebb0fcd20223ddb2599a02dc0021843",
+    "path": "/nix/store/nih0hkz20y9wjhbij1wsyc155yyfhpqx-dms-gitlabNotifier",
+    "rev": "7134f421f18f76a34852b179a9bb85f0e2c80b4f",
     "rootDir": "",
-    "sha256": "0iq50wqvrax6qjxvrdbjbagyf2wi9hqqcrcdx5dfbvkgdbnhy28i",
+    "sha256": "0dkpb2hfhiy4khxp5bqwlrvb5pmawmb7894agqlahn5r3awhjixr",
     "url": "https://github.com/psyreactor/dms-gitlabNotifier"
   },
   "gitmojiLauncher": {
@@ -6114,12 +6114,12 @@
     "url": "https://github.com/hthienloc/dms-qr-generator"
   },
   "quickCapture": {
-    "date": "2026-07-11T09:24:43+07:00",
+    "date": "2026-07-12T10:14:12+07:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-hr/iRIZSmwJYS3SVmFjI0g9xJsPLlZXaFfjuFp875tc=",
+    "hash": "sha256-UjW5CuzUHUe5hLwyltC28EsqRkkbpRHtK5s/ILf0xog=",
     "leaveDotGit": false,
     "meta": {
       "author": "Loc Huynh",
@@ -6139,12 +6139,12 @@
       "name": "Quick Capture",
       "repo": "https://github.com/hthienloc/dms-quick-capture",
       "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-quick-capture/main/screenshot.png",
-      "version": "2.14.0"
+      "version": "2.16.0"
     },
-    "path": "/nix/store/q20h9n82k65ck5bhz681mrzd391dqxjk-dms-quick-capture",
-    "rev": "11e4d6ed4aecb086b55127a1311961380f04bf56",
+    "path": "/nix/store/sb3ajin1dg8dl3hwd9gi00210vif7fn5-dms-quick-capture",
+    "rev": "6a5081b1beab05103df8915f30c9f7d44600a61f",
     "rootDir": "",
-    "sha256": "1mz67fgidvpq2pd9b5fbqck723yjr1c9i5bl9dc056sjhr2f5gw6",
+    "sha256": "1266yjvj0gwv5gni398v9532ljzhnv89ccmwhjwlf7flxh5bjdaj",
     "url": "https://github.com/hthienloc/dms-quick-capture"
   },
   "quickTote": {
@@ -7258,12 +7258,12 @@
     "url": "https://github.com/cwelsys/dms-volume-mixer"
   },
   "voxtype": {
-    "date": "2026-03-28T17:05:46-03:00",
+    "date": "2026-07-11T22:03:24-03:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-CjPMs3MCXS0qpvJU7Obfi/kTCv0udVUfvH0comz2oHs=",
+    "hash": "sha256-5dmDrlswqmqSWuKbWFTQSrmBS7jS7VF87bI6PYW7C94=",
     "leaveDotGit": false,
     "meta": {
       "author": "psyreactor",
@@ -7286,12 +7286,12 @@
       "repo": "https://github.com/psyreactor/dms-voxtype",
       "requires_dms": ">0.0.28",
       "screenshot": "https://github.com/psyreactor/dms-voxtype/raw/main/screenshot.png",
-      "version": "1.0.3"
+      "version": "1.1.0"
     },
-    "path": "/nix/store/bn85fd6hm2xszyfji60pjcc9c4fngbhi-dms-voxtype",
-    "rev": "85576ed6577ef166af7d64f007e7d7ddcac99dc7",
+    "path": "/nix/store/lpclazz3gn2mgslk8qx5bkkrl44dvcza-dms-voxtype",
+    "rev": "3e763839028e6a763661a6967f3076dd8f12edf3",
     "rootDir": "",
-    "sha256": "0yx0yrna473xphgmax9fzl517ycbvzkfqm7jlqm2sp82ffrwqcqa",
+    "sha256": "1phbpf2ksfmjxmy53vfjp15q3faas1a5i6z2ba96maihbfp87ng5",
     "url": "https://github.com/psyreactor/dms-voxtype"
   },
   "vscodeLauncher": {
