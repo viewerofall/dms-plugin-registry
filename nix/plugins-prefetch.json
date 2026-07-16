@@ -1066,12 +1066,12 @@
     "url": "https://github.com/ernestowgg/cava-visualizer"
   },
   "chineseCalendar": {
-    "date": "2026-03-31T13:35:13+08:00",
+    "date": "2026-07-15T18:01:12+08:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-5LnLUn1uttyXtCPdH6i+V7TTc9Ji9/UGZkrcbR8sOQs=",
+    "hash": "sha256-AGn/gss0BEIhLxTpCSodpbc46ruVmDFtpw0UpXgVST0=",
     "leaveDotGit": false,
     "meta": {
       "author": "xxyangyoulin",
@@ -1096,12 +1096,12 @@
       "repo": "https://github.com/xxyangyoulin/dms-plugin-ccal",
       "requires_dms": ">=1.4.0",
       "screenshot": "https://raw.githubusercontent.com/xxyangyoulin/dms-plugin-ccal/master/assets/screenshot.png",
-      "version": "1.2.1"
+      "version": "1.2.2"
     },
-    "path": "/nix/store/x1z7hl3838kbil4aldj8jb8fa67d1jhc-dms-plugin-ccal",
-    "rev": "123e4e2a8658cc61a36284a7add94f701e60a3fb",
+    "path": "/nix/store/scrvvi55n376rrm1ggy927c37wfmmk6l-dms-plugin-ccal",
+    "rev": "b4de8eb83d05abd83aaf90fa61de5ef6b143ee3f",
     "rootDir": "",
-    "sha256": "02rr5hgnvp2acq3gbxv2s9rx7d2ppsl1zp93njbxrdkfgm9cpfg4",
+    "sha256": "0ga92mwaa50dlxnk364mpgm3idx53lm0ks8l5whl411lrf1gys80",
     "url": "https://github.com/xxyangyoulin/dms-plugin-ccal"
   },
   "clashVerge": {
@@ -3648,12 +3648,12 @@
     "url": "https://github.com/devnullvoid/dms-emoji-launcher"
   },
   "ephemera": {
-    "date": "2026-07-10T13:22:07-05:00",
+    "date": "2026-07-15T13:46:38-05:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-+i7rbacYd7gfXcJtFuzV9GoIDSH8JFsf6H2FXPGMRpQ=",
+    "hash": "sha256-h8/lVANAuXR2JIOgZxWHqeH1UEjHtiPtAhfraVGqO58=",
     "leaveDotGit": false,
     "meta": {
       "author": "nicolasgarcia214",
@@ -3677,12 +3677,12 @@
       "name": "Ephemera",
       "repo": "https://github.com/nicolasgarcia214/Ephemera",
       "screenshot": "https://github.com/nicolasgarcia214/Ephemera/blob/master/screenshots/screenshot.jpg?raw=true",
-      "version": "1.1.0"
+      "version": "1.2.0"
     },
-    "path": "/nix/store/hy47iw0ww214sskcyamb6qxgi3qwgbcb-Ephemera",
-    "rev": "172783fccb37e99756f999daa737ced42aeefe4e",
+    "path": "/nix/store/xlcih0dnw1wb9b8gdg38xg2sfkqf1rix-Ephemera",
+    "rev": "e3ffa6b321d5b7460f45ddfc10fb2a600cd5c208",
     "rootDir": "",
-    "sha256": "1526ikqmr1bxx0gmn97w446hhsplspn1cvf2blgvhxqqlxnynbps",
+    "sha256": "17rvm98nksqp0bnj7dn7918gbqd9hwang8434iv79fa00dafbkw7",
     "url": "https://github.com/nicolasgarcia214/Ephemera"
   },
   "extendedNetworkToggle": {
@@ -6114,12 +6114,12 @@
     "url": "https://github.com/hthienloc/dms-qr-generator"
   },
   "quickCapture": {
-    "date": "2026-07-15T09:41:18+07:00",
+    "date": "2026-07-16T10:14:39+07:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-BnNqFlEq1jlHltj0vZwklntoBz3iUsSdaGL5EMtigmM=",
+    "hash": "sha256-8U8ouNWDK3kjFR01WhbBr8FFo6WdCmKcxefhIKk3faQ=",
     "leaveDotGit": false,
     "meta": {
       "author": "Loc Huynh",
@@ -6139,12 +6139,12 @@
       "name": "Quick Capture",
       "repo": "https://github.com/hthienloc/dms-quick-capture",
       "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-quick-capture/main/screenshot.png",
-      "version": "3.0.0"
+      "version": "3.1.0"
     },
-    "path": "/nix/store/05xmikxwi2fwfhldzs7vbki0d1a3vb6y-dms-quick-capture",
-    "rev": "7474b9d65e7f90c3ed6c75f52555259db41fda43",
+    "path": "/nix/store/d6s5bgms5mh6k48s4q23g5ymqr11mmrj-dms-quick-capture",
+    "rev": "712d20e750ee689e0deacac69c19d365e7522a4d",
     "rootDir": "",
-    "sha256": "0qw2cb5i1yb2d2fw8lp27l3nhywn4jfbvx6qjr3kkmiaa4b6lwq6",
+    "sha256": "193x6ylj1qg7qnf642lxlnilbhdgq4b5ld8x2lipjaw3snw2hkzi",
     "url": "https://github.com/hthienloc/dms-quick-capture"
   },
   "quickTote": {
