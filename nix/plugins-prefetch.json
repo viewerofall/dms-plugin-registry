@@ -149,12 +149,12 @@
     "url": "https://github.com/devnullvoid/dms-ai-assistant"
   },
   "aiOverviewControl": {
-    "date": "2026-07-20T12:54:03-03:00",
+    "date": "2026-07-24T14:58:20-03:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-ZePxpPHpDF0Zx8PU2g5P1jukg7qRInoiXPSl8ivZyWQ=",
+    "hash": "sha256-LCwEyMMJSFAhKf3RFxo3n7qBP3hif+xfhCNCz+PvU20=",
     "leaveDotGit": false,
     "meta": {
       "author": "Bernardo Gomes",
@@ -178,12 +178,12 @@
       "name": "AiOverviewControl",
       "repo": "https://github.com/bernardopg/AiOverviewControl",
       "screenshot": "https://raw.githubusercontent.com/bernardopg/AiOverviewControl/main/screenshot.png",
-      "version": "1.7.1"
+      "version": "1.8.1"
     },
-    "path": "/nix/store/w40x0mlqk2kcl9gga15irvdjqxpg0l4v-AiOverviewControl",
-    "rev": "03ba3952a1496e5e0588bf29cba552bbe75e107a",
+    "path": "/nix/store/78z7jlvirdh307vrd08wp0cj68k7hjqg-AiOverviewControl",
+    "rev": "a23eb1713be6a9abe3770cb912b802d2d090cf24",
     "rootDir": "",
-    "sha256": "0r69v4mz59glbhi7l8lipa1s8fyn9w7dmm63qwcms379y6jg3qv5",
+    "sha256": "0vakxziwyhi3higyqzv2g0zq3flz6wd1glgx54hm0j09qg408b1c",
     "url": "https://github.com/bernardopg/AiOverviewControl"
   },
   "airQuality": {
@@ -6114,12 +6114,12 @@
     "url": "https://github.com/hthienloc/dms-qr-generator"
   },
   "quickCapture": {
-    "date": "2026-07-24T04:09:33+07:00",
+    "date": "2026-07-24T23:52:38+07:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-DQubyoIleqGDPyCjQhzkNylQjACldd1xiD2tmjF7Bpw=",
+    "hash": "sha256-/ARRQZ78v1Kor0OT8rvdjk6/WMdj5PWvsy1DTypOJws=",
     "leaveDotGit": false,
     "meta": {
       "author": "Loc Huynh",
@@ -6139,12 +6139,12 @@
       "name": "Quick Capture",
       "repo": "https://github.com/hthienloc/dms-quick-capture",
       "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-quick-capture/main/screenshot.png",
-      "version": "3.7.0"
+      "version": "3.7.2"
     },
-    "path": "/nix/store/n802iyqy2j1h191kmf5c7nchc684cwyh-dms-quick-capture",
-    "rev": "250d4ef6804db403020f29435d4baab722c3e8e4",
+    "path": "/nix/store/si59lrc5w4b8xyixvf7hp78nkllii70k-dms-quick-capture",
+    "rev": "595dc47edd0c6f6c21bd8838f78659f115b92aea",
     "rootDir": "",
-    "sha256": "1706gcqrmb9xi1qxsxd502650a9pwhf458r07y1s2yi5hb59n2qd",
+    "sha256": "02r79qm4yhrdnfpzbr33qxcbyklfvnxz54s3myl55gzwkr0m217w",
     "url": "https://github.com/hthienloc/dms-quick-capture"
   },
   "quickTote": {
