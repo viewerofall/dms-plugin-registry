@@ -70,12 +70,12 @@
     "url": "https://github.com/hthienloc/dms-activate-linux"
   },
   "adguardVPplugin": {
-    "date": "2026-07-12T18:06:00-03:00",
+    "date": "2026-07-25T13:48:16-03:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-PQaAr6zi02IfmY4voqcvLy5dFB2TRxn/wg1WHar1K+4=",
+    "hash": "sha256-/db+1unk4SdcCJ0NyWpxJPpYDOCOlh447l1ytyeb1L0=",
     "leaveDotGit": false,
     "meta": {
       "author": "Bernardo Gomes",
@@ -102,10 +102,10 @@
       "screenshot": "https://raw.githubusercontent.com/bernardopg/dms-adguard-vpn-plugin/main/docs/screenshot.png",
       "version": "1.5.3"
     },
-    "path": "/nix/store/gzdrhhyq2qw8x6zqilz9w76g4nnwvca0-dms-adguard-vpn-plugin",
-    "rev": "14aa29bb1a8a5cca33dafbc22a0bdd8cf136c129",
+    "path": "/nix/store/hwy5ikpk3ayzvw0mk1jbzw2b3djljwi0-dms-adguard-vpn-plugin",
+    "rev": "1c4756cbe3d51f4d15d986fd3f12d0d2b2b5c09b",
     "rootDir": "",
-    "sha256": "1vibynm1smhdqbzijiwk3la5sbig5yks4bwfk4gn5lz2mjpq01ix",
+    "sha256": "1gflkckvfwjxxqw1x5lfw065iyi4f5mcj3cx11f2gqg4x7bgxmpx",
     "url": "https://github.com/bernardopg/dms-adguard-vpn-plugin"
   },
   "aiAssistant": {
@@ -2905,12 +2905,12 @@
     "url": "https://github.com/xxyangyoulin/dms-plugin-developer-utilities"
   },
   "discordVoice": {
-    "date": "2026-07-17T22:31:51-07:00",
+    "date": "2026-07-25T09:13:50-07:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-El77+iyms2xm3UMokbE7SQ+JK3/h++mmBOioLRlUYhE=",
+    "hash": "sha256-OO07903YGwE26kj1LRItdRvstCmxRdxQ85zyjaq7BSU=",
     "leaveDotGit": false,
     "meta": {
       "author": "PandorasFox",
@@ -2934,12 +2934,12 @@
       "name": "Discord Voice Widget",
       "repo": "https://github.com/PandorasFox/dms-discord-widget",
       "screenshot": "https://raw.githubusercontent.com/PandorasFox/dms-discord-widget/master/screenshot.png",
-      "version": "1.1.1"
+      "version": "1.2.0"
     },
-    "path": "/nix/store/b1fbffp795sfjic65dxql5fkcpkmiqp9-dms-discord-widget",
-    "rev": "e16ec247fcd94c1bea7d8d2b2acb384c048cc151",
+    "path": "/nix/store/ags83c327jnmgksxfng3cwmv4j5s9qk9-dms-discord-widget",
+    "rev": "ae0d695205d953e6fe5cb3a408f58cd77f706717",
     "rootDir": "",
-    "sha256": "04b2ahcjva780jkfkyz1gwmqj3s97fqr2a23vmk6rcx65kxgnphj",
+    "sha256": "0985pfm8vwlwyd8dqidi56sfq6vm5l92vxa8x8v026yq9pvkpv9q",
     "url": "https://github.com/PandorasFox/dms-discord-widget"
   },
   "displayManager": {
