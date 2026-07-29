@@ -777,12 +777,12 @@
     "url": "https://github.com/Beepeeko/dms-baloo-search"
   },
   "bongoCat": {
-    "date": "2026-07-03T13:28:28+07:00",
+    "date": "2026-07-29T09:45:26+07:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-jypdXhE1scPFZ4KeT8NJgT+EVIqzN2ga487gfB6EEA4=",
+    "hash": "sha256-vGBGBFwd78R7q+gqxOb2PCPAiNO157HJcHXspABDCx0=",
     "leaveDotGit": false,
     "meta": {
       "author": "Loc Huynh",
@@ -807,10 +807,10 @@
       "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-bongo-cat/main/screenshot.png",
       "version": "2.3.0"
     },
-    "path": "/nix/store/jmjrdz3190y08nq9dxqgycc4mprzyn3l-dms-bongo-cat",
-    "rev": "92690f8041f636bfa40029179e8c9f577d50a6c7",
+    "path": "/nix/store/jyfbw9khbz4g4w5pnajxg0j79kxjy5yx-dms-bongo-cat",
+    "rev": "237b1a34b2fb8d90e4f4c8656af758c3d7dab638",
     "rootDir": "",
-    "sha256": "03hhhhg7rq6fwcd6hdxki9a88gw1971lz7l2cz2w7c9m25g5salg",
+    "sha256": "078b8c0a9v3mf34v3rxmsf4c08rwyvkc8ap8mdxw9vqxbh24cq5w",
     "url": "https://github.com/hthienloc/dms-bongo-cat"
   },
   "brSoccer": {
@@ -886,12 +886,12 @@
     "url": "https://github.com/hthienloc/dms-breathing"
   },
   "caffeine": {
-    "date": "2026-07-26T21:20:00+07:00",
+    "date": "2026-07-28T17:48:54+07:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-NLnQw5xTFm9Lrxb2w7sl/kYFMPgXP2RlVrji0TtS+oU=",
+    "hash": "sha256-E+yDNyw0UPNXZ9N4AwffcXJH28k83TRIRryldJbbXds=",
     "leaveDotGit": false,
     "meta": {
       "author": "Loc Huynh",
@@ -911,12 +911,12 @@
       "name": "Caffeine",
       "repo": "https://github.com/hthienloc/dms-caffeine",
       "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-caffeine/master/screenshot.png",
-      "version": "2.2.1"
+      "version": "2.2.2"
     },
-    "path": "/nix/store/9gb27bzhgzwb6nig9khzssj91bnfv77b-dms-caffeine",
-    "rev": "df16c64ec2aef7d711ead282a9fa68dd7d134d7f",
+    "path": "/nix/store/phaiigapgxwsqpjx7g1d2b4q7fw2h3ps-dms-caffeine",
+    "rev": "353c2d13216e1bf5633df0eb0b14f93bee27a753",
     "rootDir": "",
-    "sha256": "11gsa8xx3qmqarjn8gqpz0q0aipy4nxw7xhnmx5ny5jkkk1x1f9l",
+    "sha256": "1nsxvfb799dw8r439p9wr7dlfwkivw3h6y6kcxbz6l1l5hvq7v0k",
     "url": "https://github.com/hthienloc/dms-caffeine"
   },
   "calculator": {
