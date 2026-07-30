@@ -1,11 +1,11 @@
 {
   "acerSense": {
-    "date": "2026-05-31T22:59:51-03:00",
+    "date": "2026-07-29T01:04:56-03:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-5uBURmbRYpot1jO9H8kZMy7TuWc946YhQzVkrQPUY90=",
+    "hash": "sha256-cTFirXSsZKcVA5eFN+eBHgKgm0Kuqe3B6vaL96oXjy8=",
     "leaveDotGit": false,
     "meta": {
       "author": "raphamzn",
@@ -27,12 +27,12 @@
       "name": "Acer Sense",
       "repo": "https://github.com/raphamzn/dms-acer-sense",
       "screenshot": "https://raw.githubusercontent.com/raphamzn/dms-acer-sense/main/screenshot.png",
-      "version": "1.1.1"
+      "version": "1.2.1"
     },
-    "path": "/nix/store/fsnn9gzhrkhv9s8rfvcb95ffzrj1d5rx-dms-acer-sense",
-    "rev": "5a3a21f1bfa4b24ec1c14d6ef237ea44dbe3ea47",
+    "path": "/nix/store/jw9jq858fb35kil9pnw44sinbw302yq8-dms-acer-sense",
+    "rev": "f75a62bbe5c0e7772569d16e1dd05ec4e54a6f95",
     "rootDir": "",
-    "sha256": "1pb3sh1ssr1m8chsdqrxcywx6bik374izg9ksqnrlqnicr359q76",
+    "sha256": "0bwg2ymgg2znxb0yvadf8ads00hyh7kkg1cp0casfr5cfjnn4cbi",
     "url": "https://github.com/raphamzn/dms-acer-sense"
   },
   "activateLinux": {
@@ -6114,12 +6114,12 @@
     "url": "https://github.com/hthienloc/dms-qr-generator"
   },
   "quickCapture": {
-    "date": "2026-07-27T18:27:27+07:00",
+    "date": "2026-07-30T07:38:49+07:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-n3ldszH/Xo427QM1rA4FeVb3aKLTtWC7kJSZ7saVtRE=",
+    "hash": "sha256-wv+yXENKXdiowsMonPSmWPuh/a/rFH4kq/8fpFfbU6o=",
     "leaveDotGit": false,
     "meta": {
       "author": "Loc Huynh",
@@ -6139,12 +6139,12 @@
       "name": "Quick Capture",
       "repo": "https://github.com/hthienloc/dms-quick-capture",
       "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-quick-capture/main/screenshot.png",
-      "version": "3.7.4"
+      "version": "3.7.5"
     },
-    "path": "/nix/store/8ki8n9zf9iqp3iw4m63c6qiakll0w74l-dms-quick-capture",
-    "rev": "e72e105ca76071dd23721a12b250350f2f74f907",
+    "path": "/nix/store/qrjpp9zbi8ypnhsdjzgfjfdw7kjncrld-dms-quick-capture",
+    "rev": "a50c37e3bf19751e7d1667875dcb447ba6550e9c",
     "rootDir": "",
-    "sha256": "04dmjp3fx6clj2xn1dfkl9lgfmkr0l7aqd83xlv8wppz66rmsycz",
+    "sha256": "1ajkvdbs87zzmcj7w57bmzys3ysqlvs9qa63qaldhpaa8dfb5zy2",
     "url": "https://github.com/hthienloc/dms-quick-capture"
   },
   "quickTote": {
