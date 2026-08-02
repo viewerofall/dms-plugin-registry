@@ -70,12 +70,12 @@
     "url": "https://github.com/hthienloc/dms-activate-linux"
   },
   "adguardVPplugin": {
-    "date": "2026-07-25T13:48:16-03:00",
+    "date": "2026-08-02T00:13:32-03:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-/db+1unk4SdcCJ0NyWpxJPpYDOCOlh447l1ytyeb1L0=",
+    "hash": "sha256-GVRXwaRiep4TTx6tMGeCmpmw0tbXqGciU//htbauuG0=",
     "leaveDotGit": false,
     "meta": {
       "author": "Bernardo Gomes",
@@ -100,12 +100,12 @@
       "repo": "https://github.com/bernardopg/dms-adguard-vpn-plugin",
       "requires_dms": ">=1.4.0",
       "screenshot": "https://raw.githubusercontent.com/bernardopg/dms-adguard-vpn-plugin/main/docs/screenshot.png",
-      "version": "1.5.3"
+      "version": "1.6.0"
     },
-    "path": "/nix/store/hwy5ikpk3ayzvw0mk1jbzw2b3djljwi0-dms-adguard-vpn-plugin",
-    "rev": "1c4756cbe3d51f4d15d986fd3f12d0d2b2b5c09b",
+    "path": "/nix/store/a64m65n6jvnb508wacc00b5yjhzzzhjd-dms-adguard-vpn-plugin",
+    "rev": "775aa4f057358880ecd97f520883f6b83219c6f7",
     "rootDir": "",
-    "sha256": "1gflkckvfwjxxqw1x5lfw065iyi4f5mcj3cx11f2gqg4x7bgxmpx",
+    "sha256": "0vdqmsvbbqgzaci6ga6psv9b16csh9kk1b8y9w9rwyk2lk0mfm0r",
     "url": "https://github.com/bernardopg/dms-adguard-vpn-plugin"
   },
   "aiAssistant": {
@@ -6114,12 +6114,12 @@
     "url": "https://github.com/hthienloc/dms-qr-generator"
   },
   "quickCapture": {
-    "date": "2026-08-01T09:16:35+07:00",
+    "date": "2026-08-02T07:08:03+07:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-8jp6D42Ga5XYX0OdINsx/IUIkapbbMoA19KrtB/DiIc=",
+    "hash": "sha256-znZqx6p6/ruM4MUVUOERrTySb67r+ZsDGKnRskOIZR8=",
     "leaveDotGit": false,
     "meta": {
       "author": "Loc Huynh",
@@ -6139,12 +6139,12 @@
       "name": "Quick Capture",
       "repo": "https://github.com/hthienloc/dms-quick-capture",
       "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-quick-capture/main/screenshot.png",
-      "version": "3.8.0"
+      "version": "3.8.1"
     },
-    "path": "/nix/store/i8n9xy8fy5nq6wbsllvds1yrriwsmsff-dms-quick-capture",
-    "rev": "2c01629c653377ad9388644d8e603c132cab473b",
+    "path": "/nix/store/iyfq3yba4mmhxj9p57xp3wh17pp8xlwm-dms-quick-capture",
+    "rev": "05c629a9d5b698892ad4bdc8af2a5dfb4cd13ad3",
     "rootDir": "",
-    "sha256": "11w8qcgv9ayjsw0clv2vma8hi1gw67dj17a3bzc9asw6il7plfpj",
+    "sha256": "07v5i11v5ld9301rpygbmrpr4g5d27hm05f5w26bpzksmb3nlxnf",
     "url": "https://github.com/hthienloc/dms-quick-capture"
   },
   "quickTote": {
