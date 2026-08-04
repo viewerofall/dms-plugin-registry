@@ -453,12 +453,12 @@
     "url": "https://github.com/RiceaRaul/DMS-AnimeCalendarPlugin"
   },
   "appLauncher": {
-    "date": "2026-07-03T03:41:36+07:00",
+    "date": "2026-08-03T14:19:33+07:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-sXaG838IBBCV85Iin/zicada0FpQUxANQrbl+nQ8l68=",
+    "hash": "sha256-lBC2IMFFW/xajLNqxaishh7M5plEXsMsgHJesq6frqs=",
     "leaveDotGit": false,
     "meta": {
       "author": "Loc Huynh",
@@ -480,12 +480,12 @@
       "name": "App Launcher",
       "repo": "https://github.com/hthienloc/dms-app-launcher",
       "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-app-launcher/main/screenshot.png",
-      "version": "2.2.1"
+      "version": "2.2.2"
     },
-    "path": "/nix/store/h1cg296264n5gwprwklr6bqrzyd2s2za-dms-app-launcher",
-    "rev": "b8296a20f42593631db93c01d01e7a9706647acb",
+    "path": "/nix/store/ai0sghq9lpwqh4r6vcp6x8x8bqk56s12-dms-app-launcher",
+    "rev": "b190f6070da9be8fac579dd1da8b5651a42f034a",
     "rootDir": "",
-    "sha256": "1bwp7isgmrdn886i0lshbb85m9viwby9y8ljyfai0108gzrqcxmi",
+    "sha256": "1axfkypb4pkjh0nc6pj4k7kcq7l6mjlcasmkiidgqns5q4hbc44l",
     "url": "https://github.com/hthienloc/dms-app-launcher"
   },
   "appShortcut": {
@@ -6114,12 +6114,12 @@
     "url": "https://github.com/hthienloc/dms-qr-generator"
   },
   "quickCapture": {
-    "date": "2026-08-02T07:08:03+07:00",
+    "date": "2026-08-04T10:13:13+07:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-znZqx6p6/ruM4MUVUOERrTySb67r+ZsDGKnRskOIZR8=",
+    "hash": "sha256-iqJBazXOkTCbyF3CWK3opmigxzfxD1R7Us/2teJEKhY=",
     "leaveDotGit": false,
     "meta": {
       "author": "Loc Huynh",
@@ -6139,12 +6139,12 @@
       "name": "Quick Capture",
       "repo": "https://github.com/hthienloc/dms-quick-capture",
       "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-quick-capture/main/screenshot.png",
-      "version": "3.8.1"
+      "version": "4.0.0"
     },
-    "path": "/nix/store/iyfq3yba4mmhxj9p57xp3wh17pp8xlwm-dms-quick-capture",
-    "rev": "05c629a9d5b698892ad4bdc8af2a5dfb4cd13ad3",
+    "path": "/nix/store/jdfaqpxylbvrzrshc5w4iwfz99wkkhnr-dms-quick-capture",
+    "rev": "2402099c8f66bce6db94c8697aaacd4474001659",
     "rootDir": "",
-    "sha256": "07v5i11v5ld9301rpygbmrpr4g5d27hm05f5w26bpzksmb3nlxnf",
+    "sha256": "05ia8kibbxnga9xm83zi6z3s0s56x2nmihjxr2dk14ff6mml38la",
     "url": "https://github.com/hthienloc/dms-quick-capture"
   },
   "quickTote": {
