@@ -4792,12 +4792,12 @@
     "url": "https://github.com/psyreactor/dms-kubernetes"
   },
   "linuxWallpaperEngine": {
-    "date": "2026-07-31T17:40:58+03:00",
+    "date": "2026-08-05T20:13:31+03:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-vFkGT28Wve3WdP4nJCAxqxNspnH5Yt0kY/c/1IS5WQc=",
+    "hash": "sha256-Cp0mLBH9aU8ID4T/PSP8MJ6P32oa3zvMuLLgA3NbA8Q=",
     "leaveDotGit": false,
     "meta": {
       "author": "sgtaziz",
@@ -4820,12 +4820,12 @@
       "name": "Linux Wallpaper Engine",
       "repo": "https://github.com/sgtaziz/dms-wallpaperengine",
       "screenshot": "https://raw.githubusercontent.com/sgtaziz/dms-wallpaperengine/refs/heads/main/screenshot.png",
-      "version": "1.1.1"
+      "version": "1.1.2"
     },
-    "path": "/nix/store/3c8gp3dvbild8j9a4c0alip02b592hza-dms-wallpaperengine",
-    "rev": "92f5d1be3989cf49cdb5e180323125f996977db2",
+    "path": "/nix/store/p4s4y14f5r64s1s8li0qpv4xdwcry2jh-dms-wallpaperengine",
+    "rev": "3c63881418ddac81ab640aeba39362338a1e1169",
     "rootDir": "",
-    "sha256": "01srp62d8gzpccjdsqprf6k6q4xb64h289zyfkbfvg8ndx7hcndw",
+    "sha256": "1i03bdrh7q5jp363ppqsdbgqz7ihzhikvzw41w44ysgx24n2d78a",
     "url": "https://github.com/sgtaziz/dms-wallpaperengine"
   },
   "liveChartSchedule": {
@@ -6114,12 +6114,12 @@
     "url": "https://github.com/hthienloc/dms-qr-generator"
   },
   "quickCapture": {
-    "date": "2026-08-04T23:03:57+07:00",
+    "date": "2026-08-06T09:46:35+07:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-5mkRzuWvO8IlRYMDMYqdrF0PXOyNRRvBepNuu7vsXOE=",
+    "hash": "sha256-5L4ddBwET0PpJ88hGPFrw7ovcM9b2IAW4NYGXKrdgws=",
     "leaveDotGit": false,
     "meta": {
       "author": "Loc Huynh",
@@ -6139,12 +6139,12 @@
       "name": "Quick Capture",
       "repo": "https://github.com/hthienloc/dms-quick-capture",
       "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-quick-capture/main/screenshot.png",
-      "version": "4.0.1"
+      "version": "4.0.2"
     },
-    "path": "/nix/store/y4r9sa89r631qfij5iim1rnn61ywx5rb-dms-quick-capture",
-    "rev": "ec41990cb2d778395dd6318d0f3bcfb3db7915fd",
+    "path": "/nix/store/2znxikvrd056as6w6bxqbbikci6bqnfs-dms-quick-capture",
+    "rev": "079ca0e09a6c0206b22f1130c8b66b72a277f456",
     "rootDir": "",
-    "sha256": "1qawxjxvnvlkgb0inicdxif0ypdckn5320w38ljw4fxgwp712sg6",
+    "sha256": "02w3vnm5q1nnw0b81n2vrxq2zfn3dgqih8fg4zll6kq43is1vgp4",
     "url": "https://github.com/hthienloc/dms-quick-capture"
   },
   "quickTote": {
