@@ -149,12 +149,12 @@
     "url": "https://github.com/devnullvoid/dms-ai-assistant"
   },
   "aiOverviewControl": {
-    "date": "2026-08-08T19:57:16-03:00",
+    "date": "2026-08-10T10:59:17-03:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-lMw6mlcR5SZrXAvQMe6rnv6TZUzgxOmlu+0uDpcsndw=",
+    "hash": "sha256-bEfdHlCiE6bxNMnStcXqqyahEWz6MDlsoxYGjz/2aV8=",
     "leaveDotGit": false,
     "meta": {
       "author": "Bernardo Gomes",
@@ -180,10 +180,10 @@
       "screenshot": "https://raw.githubusercontent.com/bernardopg/AiOverviewControl/main/screenshot.png",
       "version": "1.9.0"
     },
-    "path": "/nix/store/08i0cpmjcllkkw065sq1lwzccn4i73hc-AiOverviewControl",
-    "rev": "b113bb6f3798c989268a4cd6a175b51223c610aa",
+    "path": "/nix/store/ahsq0parnfqvcbp1m0ljaf01rgkxjfxi-AiOverviewControl",
+    "rev": "bdffcdd35f0c975f6c95bc512cb6736de493c1b2",
     "rootDir": "",
-    "sha256": "1p4x5jbhwbpdpfjyki709ijr7zlymgp33l0bbimjdr8iayd3mk4l",
+    "sha256": "0pv9yqzqy1hnldn3jc7sdh8s29mbxb2vbln96kqsc4x2a0gdsivc",
     "url": "https://github.com/bernardopg/AiOverviewControl"
   },
   "airQuality": {
@@ -6114,12 +6114,12 @@
     "url": "https://github.com/hthienloc/dms-qr-generator"
   },
   "quickCapture": {
-    "date": "2026-08-09T20:36:55+07:00",
+    "date": "2026-08-10T22:11:23+07:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-xP/MsJV5BQOfgD/FVYlZkpP9Xpzg2X324MHP8LZfAew=",
+    "hash": "sha256-ATNm5pyeerVPHe6LyPHMOr3NDOUMoOUSLW6gEbj0+dw=",
     "leaveDotGit": false,
     "meta": {
       "author": "Loc Huynh",
@@ -6141,10 +6141,10 @@
       "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-quick-capture/main/screenshot.png",
       "version": "4.1.0"
     },
-    "path": "/nix/store/fbw6djwq0n4hdp92sgcfpxkjf22nbfnz-dms-quick-capture",
-    "rev": "79a791eb37d87e57f92406bbe51a901986345f98",
+    "path": "/nix/store/rr1p6pgrdhlsw0vy6d6lx18xvy71ki1f-dms-quick-capture",
+    "rev": "0b080dea910c70aa5e17d397b4ef9e9f19dc367d",
     "rootDir": "",
-    "sha256": "1v01byvg1ky1w3v7vng0kiggv4wjb64mbi9zh2gh61brjnqcrzy4",
+    "sha256": "1p7ryjw1383f5l9fb80cwl6cvg9srkqwi2zf3m7vaylykkk6ccq1",
     "url": "https://github.com/hthienloc/dms-quick-capture"
   },
   "quickTote": {
