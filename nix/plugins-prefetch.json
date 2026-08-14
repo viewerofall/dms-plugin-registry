@@ -70,12 +70,12 @@
     "url": "https://github.com/hthienloc/dms-activate-linux"
   },
   "adguardVPplugin": {
-    "date": "2026-08-02T00:13:32-03:00",
+    "date": "2026-08-13T13:40:41-03:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-GVRXwaRiep4TTx6tMGeCmpmw0tbXqGciU//htbauuG0=",
+    "hash": "sha256-1XPgBZSF0Pq2Bn0Bd/sH5j0YJ78etCvPArCnXsLb76g=",
     "leaveDotGit": false,
     "meta": {
       "author": "Bernardo Gomes",
@@ -102,10 +102,10 @@
       "screenshot": "https://raw.githubusercontent.com/bernardopg/dms-adguard-vpn-plugin/main/docs/screenshot.png",
       "version": "1.6.0"
     },
-    "path": "/nix/store/a64m65n6jvnb508wacc00b5yjhzzzhjd-dms-adguard-vpn-plugin",
-    "rev": "775aa4f057358880ecd97f520883f6b83219c6f7",
+    "path": "/nix/store/idfxcva1mc82sviwxnydmh9pzsap0iji-dms-adguard-vpn-plugin",
+    "rev": "917a2dcb5b1955af3c3a42573e10bea9e4c6ca98",
     "rootDir": "",
-    "sha256": "0vdqmsvbbqgzaci6ga6psv9b16csh9kk1b8y9w9rwyk2lk0mfm0r",
+    "sha256": "1a7gvg15x9xh0b7jpd0ypwkihgg60zxpf0bx0svgml45jh2y0wym",
     "url": "https://github.com/bernardopg/dms-adguard-vpn-plugin"
   },
   "aiAssistant": {
@@ -149,12 +149,12 @@
     "url": "https://github.com/devnullvoid/dms-ai-assistant"
   },
   "aiOverviewControl": {
-    "date": "2026-08-10T10:59:17-03:00",
+    "date": "2026-08-13T14:15:55-03:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-bEfdHlCiE6bxNMnStcXqqyahEWz6MDlsoxYGjz/2aV8=",
+    "hash": "sha256-k3DOraPvTpIFukoiwF02IyY/+tp7RATSB/p9gaSnaQA=",
     "leaveDotGit": false,
     "meta": {
       "author": "Bernardo Gomes",
@@ -178,12 +178,12 @@
       "name": "AiOverviewControl",
       "repo": "https://github.com/bernardopg/AiOverviewControl",
       "screenshot": "https://raw.githubusercontent.com/bernardopg/AiOverviewControl/main/screenshot.png",
-      "version": "1.9.0"
+      "version": "1.9.1"
     },
-    "path": "/nix/store/ahsq0parnfqvcbp1m0ljaf01rgkxjfxi-AiOverviewControl",
-    "rev": "bdffcdd35f0c975f6c95bc512cb6736de493c1b2",
+    "path": "/nix/store/4jn51m7kva87xjp5kc411g9isargw69w-AiOverviewControl",
+    "rev": "fa21899300f71e20e840e1b3517904850f2082ff",
     "rootDir": "",
-    "sha256": "0pv9yqzqy1hnldn3jc7sdh8s29mbxb2vbln96kqsc4x2a0gdsivc",
+    "sha256": "0039lyj82zgs0z908i3vvbx3y9i36rfw08jap82r4kpglfnwww4k",
     "url": "https://github.com/bernardopg/AiOverviewControl"
   },
   "airQuality": {
@@ -6342,12 +6342,12 @@
     "url": "https://github.com/JDKamalakar/DMS-ScreenCapture_Toolbar"
   },
   "screenRecorder": {
-    "date": "2026-07-12T10:51:23-06:00",
+    "date": "2026-08-13T19:33:58-06:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-whTko1MNMAL21gCOgXMlXyaRGAuIOrfZRkpHauwUrIQ=",
+    "hash": "sha256-Azssq4fuyhVVjtOgusY8mZ2l+CObb2RoDuEkrUSaFqI=",
     "leaveDotGit": false,
     "meta": {
       "author": "arqueon",
@@ -6369,12 +6369,12 @@
       "name": "Screen Recorder",
       "repo": "https://github.com/arqueon/dms-screen-recorder",
       "screenshot": "https://raw.githubusercontent.com/arqueon/dms-screen-recorder/main/assets/screenshot.png",
-      "version": "1.4.0"
+      "version": "1.5.0"
     },
-    "path": "/nix/store/q2zd1bhwbcfzd2g4fawgyc2qawxc1sfj-dms-screen-recorder",
-    "rev": "6d8ae9722e8a2129db771a3337ff6964685fd447",
+    "path": "/nix/store/inizk14nzjgrmf0g0cmmp81bsyhjd59v-dms-screen-recorder",
+    "rev": "1c3464e4644076fea31e5e7d6987b8b9354df288",
     "rootDir": "",
-    "sha256": "115c2kn6lisa8vcvffl81cc929jz4mrq33h0svv04c0dafiy8562",
+    "sha256": "18hnk92as9711rl68vwv4gwab7cr7k3bm86kiraibjpfhymjqfq3",
     "url": "https://github.com/arqueon/dms-screen-recorder"
   },
   "screenshotToggle": {
