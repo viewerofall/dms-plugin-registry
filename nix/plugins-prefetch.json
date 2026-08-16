@@ -149,12 +149,12 @@
     "url": "https://github.com/devnullvoid/dms-ai-assistant"
   },
   "aiOverviewControl": {
-    "date": "2026-08-13T14:15:55-03:00",
+    "date": "2026-08-14T23:50:49-03:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-k3DOraPvTpIFukoiwF02IyY/+tp7RATSB/p9gaSnaQA=",
+    "hash": "sha256-vq0exHXUjjLZiilkrYEjl041NtRGucTeb9fC/SbbtcA=",
     "leaveDotGit": false,
     "meta": {
       "author": "Bernardo Gomes",
@@ -178,12 +178,12 @@
       "name": "AiOverviewControl",
       "repo": "https://github.com/bernardopg/AiOverviewControl",
       "screenshot": "https://raw.githubusercontent.com/bernardopg/AiOverviewControl/main/screenshot.png",
-      "version": "1.9.1"
+      "version": "1.10.0"
     },
-    "path": "/nix/store/4jn51m7kva87xjp5kc411g9isargw69w-AiOverviewControl",
-    "rev": "fa21899300f71e20e840e1b3517904850f2082ff",
+    "path": "/nix/store/l6x1ldp9xj8nihlw1d98cmbcjb0wa5hj-AiOverviewControl",
+    "rev": "8c550987417606c9d500ac2e983ea77170502f8a",
     "rootDir": "",
-    "sha256": "0039lyj82zgs0z908i3vvbx3y9i36rfw08jap82r4kpglfnwww4k",
+    "sha256": "1h5mvckgvhnpdzgc9fa6shv3aklp4f0ssr19ibck53nlfp21xbdy",
     "url": "https://github.com/bernardopg/AiOverviewControl"
   },
   "airQuality": {
@@ -5315,12 +5315,12 @@
     "url": "https://github.com/Dadangdut33/dms-plugins"
   },
   "networkIndicator": {
-    "date": "2026-07-19T01:57:08+03:00",
+    "date": "2026-08-15T18:50:20+03:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-fUeT84rpKhmWQ9y44zoJH+xooo0DQVIyLe6SAmpFThk=",
+    "hash": "sha256-YUFCzEO/8GkfvwzXBZsylw0vwYw+AnIs+cKHXWnt0qo=",
     "leaveDotGit": false,
     "meta": {
       "author": "gemb0_0",
@@ -5340,12 +5340,12 @@
       "name": "Network Indicator",
       "repo": "https://github.com/gemb0-0/Network-Indicator.git",
       "screenshot": "https://raw.githubusercontent.com/gemb0-0/Network-Indicator/refs/heads/main/screenshot.png",
-      "version": "1.4.0"
+      "version": "1.5.0"
     },
-    "path": "/nix/store/w27gfybgy4hysllwbw58n1kxax14ny1i-Network-Indicator",
-    "rev": "619a5526ba4bd0eb5921b96c7c46848faba8f0e7",
+    "path": "/nix/store/r0fyx0avr6ddmxasdwd4iq3rbv8q2bzb-Network-Indicator",
+    "rev": "81d948dbabceba0f446a0441f3901a4d6b6b2f3a",
     "rootDir": "",
-    "sha256": "06af8mm054pf5lr54h83ini6iv0z14xf7f6w8fb1jap9ibrr6ivx",
+    "sha256": "1anjxmlmv1y2z4n740iyik0jy3cp6adhbmqcpwgnkw5z8g644hb1",
     "url": "https://github.com/gemb0-0/Network-Indicator.git"
   },
   "nextBootSelector": {
@@ -6114,12 +6114,12 @@
     "url": "https://github.com/hthienloc/dms-qr-generator"
   },
   "quickCapture": {
-    "date": "2026-08-15T08:28:13+07:00",
+    "date": "2026-08-15T12:39:24+07:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-a4xCHssMxhF+PljZsc5VqlLKKOJVAeHHNTO0uL5i4tU=",
+    "hash": "sha256-8TszuxwVgBd17QmOhFD3SZ+Rccbz4x3cPVercYxZzo0=",
     "leaveDotGit": false,
     "meta": {
       "author": "Loc Huynh",
@@ -6139,12 +6139,12 @@
       "name": "Quick Capture",
       "repo": "https://github.com/hthienloc/dms-quick-capture",
       "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-quick-capture/main/screenshot.png",
-      "version": "5.0.0-beta.2"
+      "version": "5.0.0-beta.3"
     },
-    "path": "/nix/store/h4lr9ilmw6n8r51mrmqa9gglf1jhzsnb-dms-quick-capture",
-    "rev": "40d9c77ce93dfde433aa236150144161ef4e45d2",
+    "path": "/nix/store/xwas0kmxv8imivh8yffy9djwlfsa6sr9-dms-quick-capture",
+    "rev": "d9a1a2141e2727c33c598bd06fdab5031655e965",
     "rootDir": "",
-    "sha256": "1mg2cazbid1k6p3y20amw8lcllmaap7b3naq7rz13ihcrcg4533b",
+    "sha256": "13ffb6673asp7pf1vqzkqrqr37s9yx8893h9xmsig00m3jxk6fzi",
     "url": "https://github.com/hthienloc/dms-quick-capture"
   },
   "quickTote": {
