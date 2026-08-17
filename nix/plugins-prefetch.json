@@ -2612,12 +2612,12 @@
     "url": "https://github.com/acmagn/DMS-UPS-Monitor"
   },
   "dankVault": {
-    "date": "2026-06-04T16:17:25+02:00",
+    "date": "2026-08-16T13:37:11+02:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-pAlNNYYRJQSI368j+1M7Vrbt6EL18hMiYWZk2AjNiH4=",
+    "hash": "sha256-NDXnhvSENpKwbEdhfbb7TJQ1TI8GUQwcoD0O2Bbc+Qg=",
     "leaveDotGit": false,
     "meta": {
       "author": "alcxyz",
@@ -2639,12 +2639,12 @@
       "name": "Vault",
       "repo": "https://github.com/alcxyz/DankVault",
       "screenshot": "https://raw.githubusercontent.com/alcxyz/DankVault/main/docs/screenshot.png",
-      "version": "0.3.2"
+      "version": "0.3.3"
     },
-    "path": "/nix/store/yz4nv74s9fipk4xp6c1si388kw8v4sw3-DankVault",
-    "rev": "755a9fbe9f62a5e14b4dda63a5fce0c2b40af92c",
+    "path": "/nix/store/4hznphmmrsjlvf92kjh84ik6g494bwd6-DankVault",
+    "rev": "f83a7f90e3633cb385cf153a7bcc64f660207e55",
     "rootDir": "",
-    "sha256": "0zl8rl4dhr36c4i17wpm8blfvdjn7d9zn8xgvy40898ihqsls2d4",
+    "sha256": "027rvhbdh3ixl0f0ql86ix63b52czfv7sqa7djq94dl4yj3ffd9l",
     "url": "https://github.com/alcxyz/DankVault"
   },
   "dankterminaltheme": {
