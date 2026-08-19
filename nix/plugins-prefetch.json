@@ -298,12 +298,12 @@
     "url": "https://github.com/hthienloc/dms-ambient-sound"
   },
   "amdGpuMonitor": {
-    "date": "2026-08-07T20:50:55Z",
+    "date": "2026-08-18T21:55:31+02:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-uKgfStITxvBMJtTDr2+jRpA17vaxHHwqZNSnE7yh8f0=",
+    "hash": "sha256-Bnhj7bbnwHue+yN5A65WYEZRek/kX0V2F7WlUl7bpi0=",
     "leaveDotGit": false,
     "meta": {
       "author": "navidagz",
@@ -325,12 +325,12 @@
       "name": "AMD GPU Monitor",
       "repo": "https://github.com/navidagz/dms-amd-gpu-monitor",
       "screenshot": "https://raw.githubusercontent.com/navidagz/dms-amd-gpu-monitor/refs/heads/main/screenshots/screenshot.png",
-      "version": "4.2.0"
+      "version": "4.2.1"
     },
-    "path": "/nix/store/wn5b3z3x71ppivnxz4qd9d98x3lm2vyv-dms-amd-gpu-monitor",
-    "rev": "ebd5564c4a9b070c405e88e36ca1d465f1dd6436",
+    "path": "/nix/store/31pwqx36dm444izzqrvcqd8c7fsyig5c-dms-amd-gpu-monitor",
+    "rev": "d0f87efb534b86dc07107288c5f86cfeb7ad9cd2",
     "rootDir": "",
-    "sha256": "1zgil6y179ylchm7q75iyvp3b426ldpszhyl4r6g1ihks951za5q",
+    "sha256": "0bd6vdg559dm2xv4apz49xx52ik0asp06y93zfg7ph77nvnn6y06",
     "url": "https://github.com/navidagz/dms-amd-gpu-monitor"
   },
   "amdGpuMonitorRevive": {
@@ -4645,12 +4645,12 @@
     "url": "https://github.com/corcoran/dms-interval-command"
   },
   "ipIndicator": {
-    "date": "2026-06-25T01:52:04+07:00",
+    "date": "2026-08-19T07:40:05+07:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-nbNS00WCSyLfaxT47xSS17GosZK49sbLIw75rkZmgr8=",
+    "hash": "sha256-/G8iXOz75CAaoawVnZvoW214KGAXzHVQQ3Iprleba3Y=",
     "leaveDotGit": false,
     "meta": {
       "author": "Loc Huynh",
@@ -4672,12 +4672,12 @@
       "name": "IP Indicator",
       "repo": "https://github.com/hthienloc/dms-ipIndicator",
       "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-ipIndicator/master/screenshot.png",
-      "version": "2.0.1"
+      "version": "2.1.0"
     },
-    "path": "/nix/store/ji52033p9z3p4br35kx5sv1iksfq95f8-dms-ipIndicator",
-    "rev": "f9761382c4b8504615e749dea48fd545e24e8fd9",
+    "path": "/nix/store/2hrsyl4gwaycv171g9xq7sffjdnpxrb4-dms-ipIndicator",
+    "rev": "988aeadbdcece2484d64806b16c9546642185674",
     "rootDir": "",
-    "sha256": "1gw2cr3axy8f4g5wdxmqjaqsicfpj8afzy0ldggj4jw28p9m5cwx",
+    "sha256": "0xkbkdbswabj8d87bk0pc0l7hvavx2drs5dcl4d21r7vxif24vzw",
     "url": "https://github.com/hthienloc/dms-ipIndicator"
   },
   "kaomojiPicker": {
@@ -6114,12 +6114,12 @@
     "url": "https://github.com/hthienloc/dms-qr-generator"
   },
   "quickCapture": {
-    "date": "2026-08-17T19:17:07+07:00",
+    "date": "2026-08-18T23:11:38+07:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-pCx+YQHObzvy+IPx9MNxiBGuIQdwKMrbagIGb7TRsE8=",
+    "hash": "sha256-elOitAy1ihaWSmSnDXPPULfxuWHfbEDkL9ai2qNocIs=",
     "leaveDotGit": false,
     "meta": {
       "author": "Loc Huynh",
@@ -6139,12 +6139,12 @@
       "name": "Quick Capture",
       "repo": "https://github.com/hthienloc/dms-quick-capture",
       "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-quick-capture/main/screenshot.png",
-      "version": "5.0.0-beta.3"
+      "version": "5.0.2"
     },
-    "path": "/nix/store/ph97fw0mbv9rl4g5rq6m7masiwfjcy8h-dms-quick-capture",
-    "rev": "b4814dab5a0f4c8dc641aefd1548e7891c57d21d",
+    "path": "/nix/store/j4h63b71cjkbr9acby7md0qrwd3lhya5-dms-quick-capture",
+    "rev": "46e90a7cf1a1e95178c6b6da2d26481019ed5d3b",
     "rootDir": "",
-    "sha256": "0kxhs6s6y1h2dbdwla3h0whsw4c8f71z9wc3z3r3nvyf05hpwb54",
+    "sha256": "12vhd2ixm8nn5zj40v6zc6wz3dshrxrhv9v49ab1d2mm1jsa4lvs",
     "url": "https://github.com/hthienloc/dms-quick-capture"
   },
   "quickTote": {
